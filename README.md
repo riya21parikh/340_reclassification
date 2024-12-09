@@ -68,7 +68,7 @@ The following modules/libraries have been used to implement this project:
 
 7. **Final Model**:
    - Reclassified the top **10% of predictions** below 0.5 and retrained the model with updated labels.
-   - Used the best VGG16 configuration (moderate augmentation, pre-trained weights, frozen layers).
+   - Used the best VGG16 configuration.
 
 ---
 
