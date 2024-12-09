@@ -23,6 +23,14 @@ This project addresses the challenge of building a convolutional neural network 
 
 This problem was inspired by a real-world scenario one of our team members encountered while classifying mislabeled insurance claims. By simulating the problem with images, we explore how CNNs can handle imperfect data and improve classification reliability.
 
+The following modules/libraries have been used to implement this project:
+
+![Conda Badge](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Keras Badge](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 ---
 
 ## Methodology
