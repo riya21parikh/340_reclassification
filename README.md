@@ -32,6 +32,13 @@ The following modules/libraries have been used to implement this project:
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
+Images were obtained from https://www.kaggle.com/datasets/ambityga/imagenet100. 
+      From train.x1: "n01795545", black grouse images
+                     "n01531178", goldfinch images
+      From train.x2: "n01592084", chickadee images
+      From train.x3: "n01614925", bald eagle images.
+      Validation images match codes above. 
+      
 
 ## Methodology
 
